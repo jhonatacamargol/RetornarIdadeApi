@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\retornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj": {}
+    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\RetornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\retornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj": {
+    "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\RetornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\retornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj",
+        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\RetornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj",
         "projectName": "retornarIdadeApi",
-        "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\retornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj",
+        "projectPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\RetornarIdadeApi\\retornarIdadeApi\\retornarIdadeApi.csproj",
         "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\retornarIdadeApi\\retornarIdadeApi\\obj\\",
+        "outputPath": "C:\\Users\\jhona\\OneDrive\\Documentos\\repositorioGit\\RetornarIdadeApi\\retornarIdadeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
